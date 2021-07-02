@@ -7,7 +7,7 @@
     class="elevation-1" style="width:1300px">
         <template v-slot:top>
             <v-toolbar flat color="white">
-                <v-toolbar-title>DATASET - ONG LIST</v-toolbar-title>
+                <v-toolbar-title>DATASET - ONG LIST - KNN</v-toolbar-title>
                 <v-divider class="mx-4" inset vertical />
                 <v-spacer></v-spacer>
                 <v-text-field label="Search ONG" append-icon="search" 
